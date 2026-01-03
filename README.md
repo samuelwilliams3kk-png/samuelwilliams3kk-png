@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| HacktheBox Pentest Lab          | Exploit Vulnerable Machine</a>|
+| Exploit Vulnerable Machine         | HacktheBox Pentest</a>|
 
 
 ## Tools
