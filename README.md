@@ -11,12 +11,6 @@ I am a highschool student at Global Impact Academy with a profound interest in C
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Exploit Vulnerable Machine         | HacktheBox Pentest</a>|
-
 
 ## Tools
 
