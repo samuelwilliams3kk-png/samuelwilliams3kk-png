@@ -7,7 +7,7 @@ I am a highschool student at Global Impact Academy with a profound interest in C
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to be a red team Ethical Hacker.
 
 ## Skills
 
