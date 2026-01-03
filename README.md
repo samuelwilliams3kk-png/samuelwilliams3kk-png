@@ -1,7 +1,6 @@
 # Hello, I'm Samuel
 <a href="https://linkedin.com/in/samuel-williams-780564396/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a highschool student at Global Impact Academy with a profound interest in Cybersecurity and a ethical hacking.
 
